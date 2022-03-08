@@ -1,9 +1,3 @@
-# github_repository
+# 学习资料
 
 我 giao
-giao
-giao
-
-该奥
-
-噶
